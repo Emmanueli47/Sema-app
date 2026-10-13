@@ -1,0 +1,6 @@
+{
+  "name": "Sema",
+  "description": "Programu thabiti ya kutuma ujumbe (Sema) - WhatsApp Clone ya Kiswahili yenye mawasiliano thabiti ya ana kwa ana na msaidizi wa akili mnemba (Sema AI)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
